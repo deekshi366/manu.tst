@@ -1,0 +1,2 @@
+# manu.tst
+hi
